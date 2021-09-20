@@ -23,7 +23,7 @@ public class HW2 {
 //
 //                }
 //            System.out.println();
- //       }
+//    }
         task1(11,9);
         task2(-6.6f);
         System.out.println(task3(3));
